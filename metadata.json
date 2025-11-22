@@ -1,0 +1,7 @@
+{
+  "name": "Open Concept Talent Network",
+  "description": "A voice-first AI talent acquisition platform for the AEC industry featuring specialized Interview and Career Advisor agents.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
